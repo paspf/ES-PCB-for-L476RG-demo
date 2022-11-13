@@ -1,0 +1,11 @@
+.metadata/
+*Debug/
+nucleo-l476rg_hal_lib/
+RemoteSystemsTempFiles/
+*.settings/
+*.cproject
+*.project
+*.cfg
+*.ld
+*.xml
+.vscode
