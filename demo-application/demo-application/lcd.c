@@ -3,7 +3,7 @@
   * @author  	paspf
   * @version 	V1.0
   * @date    	2022-03-22
-  * @copyright	GNU Public License
+  * @copyright	paspf, GNU Public License 3
   * @brief   	Functions to display characters and strings on the LCD.
   *
 ********************************************************************************/

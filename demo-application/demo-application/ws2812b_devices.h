@@ -3,7 +3,7 @@
   * @author  	paspf
   * @version 	V1.0
   * @date    	2022-03-12
-  * @copyright	GNU Public License
+  * @copyright	paspf, GNU Public License 3
   * @brief   	Contains the header of all initialization functions required for
   * 		    the ws2812b leds.
 ********************************************************************************/

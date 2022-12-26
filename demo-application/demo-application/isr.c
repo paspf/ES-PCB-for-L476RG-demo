@@ -3,6 +3,7 @@
   * @author  paspf
   * @version V1.0
   * @date    2022-11-13
+  * @copyright	paspf, GNU Public License 3
   * @brief   Default Interrupt Service Routines.
 *******************************************************************************/
 

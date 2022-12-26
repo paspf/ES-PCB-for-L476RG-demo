@@ -3,7 +3,7 @@
   * @author  	paspf
   * @version 	V1.4
   * @date    	2022-03-22
-  * @copyright	GNU Public License
+  * @copyright	paspf, GNU Public License 3
   * @brief   	Pushbutton functions.
   *
   * 			UM1725 page 876		TIM IRQ handler management, function summary

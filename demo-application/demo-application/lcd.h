@@ -1,19 +1,12 @@
- /********************************************************************
- * Project:
- * File:       lcd.h
- *
- * System:     STM32L476RG (Cortex M4)
- *
- * Date:       2008-11-10, 2020-03-08, 2022-03-22
- * Authors:    S. Apel
- * 			   modified for STM32L476RG by paspf
- *
- * Rights:     Technische Hochschule Mittelhessen
- * License:    GPL
- ********************************************************************
- * Description:
- * Contains functions to display characters and strings on the LCD
- ********************************************************************/
+/********************************************************************************
+  * @file    	lcd.c
+  * @author  	paspf
+  * @version 	V1.0
+  * @date    	2022-03-22
+  * @copyright	paspf, GNU Public License 3
+  * @brief   	Functions to display characters and strings on the LCD.
+  *
+********************************************************************************/
 
 #ifndef _lcd_h
 #define _lcd_h

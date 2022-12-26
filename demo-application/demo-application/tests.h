@@ -3,7 +3,7 @@
   * @author  	paspf
   * @version 	V1.0
   * @date    	2022-11-13
-  * @copyright	GNU Public License
+  * @copyright	paspf, GNU Public License 3
   * @brief   	Header file for tests.c.
 ********************************************************************************/
 

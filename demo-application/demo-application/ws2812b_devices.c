@@ -3,7 +3,7 @@
   * @author  	paspf
   * @version 	V1.0
   * @date    	2022-03-12
-  * @copyright	GNU Public License
+  * @copyright	paspf, GNU Public License 3
   * @brief   	Initialize all devices required for the WS2812b leds.
 ********************************************************************************/
 
